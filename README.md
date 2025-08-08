@@ -6,7 +6,7 @@ A web application built with:
 - **React + Redux** for frontend
 - **AWS RDS** for database
 - Hosted on AWS
-- 
+ 
 ## Features
 - Enquiry and Quotation
 - Product showcase
